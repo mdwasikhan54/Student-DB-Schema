@@ -4,7 +4,7 @@
 
 > A professional-grade SQL script designed to power a Student Management System. This schema handles student enrollments, course assignments, teacher allocations, batch scheduling, and registrations with built-in performance optimizations and data integrity checks. Perfect for backend developers building scalable educational apps!
 
-[Overview](#-project-overview) • [Features](#-key-features) • [Installation](#-setup--usage) • [Structure](#-project-structure) • [Highlights](#-code-highlights)
+[Overview](#-project-overview) • [Features](#-key-features) • [Installation](#-setup--usage) • [Structure](#-project-structure)
 
 ---
 
