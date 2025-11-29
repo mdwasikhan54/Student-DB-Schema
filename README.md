@@ -188,11 +188,12 @@ These examples highlight clean, efficient SQL design with a focus on automation 
 
 ---
 
-
 ### 👨‍💻 Developed by [MD Wasi Khan](https://mdwasikhan-portfolio.netlify.app/)
 
-Aspiring Python Backend Developer | FastAPI Enthusiast | Open Source Contributor  
+*Aspiring Python Backend Developer | FastAPI Enthusiast*
 
-[GitHub Profile](https://github.com/mdwasikhan54) | [LinkedIn](https://linkedin.com/in/mdwasikhan54)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdwasikhan54)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdwasikhan54)
+</div>
 
 If you find this project helpful, please drop a ⭐ star on the repo! Contributions and feedback are welcome. 🚀
